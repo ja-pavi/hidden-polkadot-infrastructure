@@ -1,0 +1,8 @@
+{
+  "type": "commonjs",
+  "dependencies": {
+    "@polkadot/api": "^8.9.1",
+    "mongodb": "^4.7.0",
+    "mysql": "^2.18.1"
+  }
+}
